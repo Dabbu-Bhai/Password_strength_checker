@@ -25,7 +25,6 @@ It also visualizes the results using graphs for better understanding.
 
   * Line Graph (Trend Analysis)
   * Bar Chart (Attack Comparison)
-  * Pie Chart (Strength Distribution)
 
 ---
 
@@ -89,15 +88,12 @@ python main.py
 
 ### 🔹 Line Graph (Password Length vs Time)
 
-![Line Graph](screenshots/line_graph.png)
+<img width="797" height="682" alt="image" src="https://github.com/user-attachments/assets/a99b146d-c6c1-4116-b8a5-5457318a12ec" />
+
 
 ### 🔹 Bar Chart (Attack Comparison)
 
-![Bar Chart](screenshots/bar_chart.png)
-
-### 🔹 Pie Chart (Strength Distribution)
-
-![Pie Chart](screenshots/pie_chart.png)
+<img width="1672" height="908" alt="image" src="https://github.com/user-attachments/assets/0e364118-a11e-40ab-86bb-86d55328401a" />
 
 ---
 
